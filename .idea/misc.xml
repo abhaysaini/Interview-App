@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/InterviewApp/app/src/main/res/drawable/signup_button.xml" value="0.2465" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/InterviewApp/app/src/main/res/drawable/src.xml" value="0.2465" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/InterviewApp/app/src/main/res/drawable/text_view_background.xml" value="0.2465" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/InterviewApp/app/src/main/res/layout/activity_login_otp.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/InterviewApp/app/src/main/res/layout/activity_main.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/InterviewApp/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/InterviewApp/app/src/main/res/layout/activity_signup.xml" value="0.20512820512820512" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/InterviewApp/app/src/main/res/layout/activity_welcome.xml" value="0.20972222222222223" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
